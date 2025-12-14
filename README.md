@@ -1,3 +1,4 @@
+# Half_subtractor
 AIM:
 
 To design a half subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -12,11 +13,13 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 
 Diff = A’B+AB’ =A ⊕ B Borrow = A’B
 
-image
+<img width="693" height="321" alt="Screenshot 2025-12-14 220911" src="https://github.com/user-attachments/assets/d2eb0c2d-7ebc-45d0-b802-697d498b3e5d" />
 
-Figure -01 HALF Subtractor
 
 Truthtable
+
+<img width="339" height="160" alt="Screenshot 2025-12-14 221453" src="https://github.com/user-attachments/assets/f52f83d3-5871-4bd4-98ba-c711838b731a" />
+
 
 Procedure
 
